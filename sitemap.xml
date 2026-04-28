@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://j5now.github.io/2026/04/28/JDex2/</loc>
+    
+    <lastmod>2026-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://j5now.github.io/link/index.html</loc>
     
     <lastmod>2025-11-18</lastmod>
@@ -66,6 +75,20 @@
   
   <url>
     <loc>https://j5now.github.io/tags/Android/</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://j5now.github.io/tags/%E8%84%B1%E5%A3%B3/</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://j5now.github.io/tags/Xposed/</loc>
     <lastmod>2026-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
